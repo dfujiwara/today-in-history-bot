@@ -1,0 +1,9 @@
+{
+    "muxbots_lib_version": "1.0",
+    "type": "feedbot",
+    "title": "Today in History",
+    "intro_message": "Will show you what happened today's date in history",
+    "image": "icon.png",
+    "source_url": "today_in_history.js",
+    "published_url": "https://dfujiwara.github.io/flightdeal-bot/chatbot.json"
+}
