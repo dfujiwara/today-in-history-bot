@@ -24,7 +24,7 @@ const handleOnFeedPull = async (callback) => {
     })
     response.addWebpageSmall(muxbots.newWebpage()
       .setURL(url)
-      .setTitle(`Browse more events for `)
+      .setTitle(`Browse more events of today`)
       .setImage('https://www.wikipedia.org/static/apple-touch/wikipedia.png'))
     response.send(callback)
 
